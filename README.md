@@ -3,6 +3,7 @@
 The URUR dataset is for Utra-high Resolution Segmentation, and proposed in CVPR 2023 paper "Ultra-High Resolution Segmentation with Ultra-Rich Context: A Novel Benchmark"
 
 The dataset can be downloaded in Baidu Pan: https://pan.baidu.com/s/14mUaovxu0ha1skWm57pf1A (Password: 75x6)
+Google Drive Link: (Please Update)
 
 Class Defination:
 
